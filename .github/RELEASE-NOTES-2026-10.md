@@ -1,0 +1,4 @@
+- skynet-social-assets is a public asset bucket for SkynetLabs social posts: carousel slides, social cards, a PDF and vertical video, organised loosely by campaign and date.
+- Current state: last asset commit 2026-07-25 (Opus 5 IG carousel re-exported as JPEG because Instagram rejects PNG).
+- Reviewed October 2026: README has no external links to check; Work with SkynetLabs section added. No assets added, replaced or removed.
+- Known gaps: no manifest mapping each asset to the post that uses it; inconsistent layout (some assets at the root); PNG and JPEG copies of the same carousel both kept; no LICENSE (media is served publicly) or CI.
